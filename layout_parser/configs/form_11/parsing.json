@@ -1,0 +1,125 @@
+[
+  {
+    "name": "summary_of_designated_partners_and_partners",
+    "type": "matrix",
+    "vertical_headers": [
+      {
+        "question": "individuals",
+        "header": "Individuals"
+      },
+      {
+        "question": "llps",
+        "header": "LLPs"
+      },
+      {
+        "question": "companies",
+        "header": "Companies"
+      },
+      {
+        "question": "foreign_llps",
+        "header": "Foreign LLPs"
+      },
+      {
+        "question": "foreign_companies",
+        "header": "Foreign companies"
+      },
+      {
+        "question": "llps_incorporated",
+        "header": "LLPs incorporated outside India"
+      },
+      {
+        "question": "companies_incorporated",
+        "header": "Companies incorporated outside India/ Companies registered in Sikkim"
+      },
+      {
+        "question": "total",
+        "header": "Total",
+        "occurrence": 2
+      }
+    ],
+    "horizontal_headers": [
+      {
+        "question": "number_of_partners",
+        "header": "Number of partners"
+      },
+      {
+        "question": "resident_in_india",
+        "header": "Resident in India"
+      },
+      {
+        "question": "others",
+        "header": "Others"
+      },
+      {
+        "question": "total",
+        "header": "Total"
+      }
+    ]
+  },
+  {
+    "name": "limited_liability_partnership",
+    "type": "orthodox",
+    "headers": [
+      {
+        "question": "section_number",
+        "header": "Section Number"
+      },
+      {
+        "question": "offence",
+        "header": "Offence"
+      },
+      {
+        "question": "penalty_imposed",
+        "header": "Penalty Imposed"
+      }
+    ]
+  },
+  {
+    "name": "partners_or_designated_partners",
+    "type": "orthodox",
+    "headers": [
+      {
+        "question": "din",
+        "header": "DPIN/ Income tax PAN/ passport number"
+      },
+      {
+        "question": "name_of_parter",
+        "header": "Name of Partner"
+      },
+      {
+        "question": "name_of_nominee",
+        "header": "Name of Nominee in case of body corporate"
+      },
+      {
+        "question": "section_number",
+        "header": "Section Number"
+      },
+      {
+        "question": "offence",
+        "header": "Offence"
+      },
+      {
+        "question": "penalty_imposed",
+        "header": "Penalty Imposed"
+      }
+    ]
+  },
+  {
+    "name": "particulars_of_compounding_offences",
+    "type": "orthodox",
+    "headers": [
+      {
+        "question": "section_number",
+        "header": "Section Number"
+      },
+      {
+        "question": "offence",
+        "header": "Offence"
+      },
+      {
+        "question": "date_of_compounding_of_offence",
+        "header": "Date of compounding of offence"
+      }
+    ]
+  }
+]

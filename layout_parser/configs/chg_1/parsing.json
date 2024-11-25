@@ -1,0 +1,248 @@
+[
+  {
+    "name" : "plot",
+    "type": "form",
+    "targets": [
+      {
+        "question": "evaluated_price",
+        "header": "Evaluated Price of Asset as on Security interest Creation date (in INR)",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Street Number & Name"
+      },
+      {
+        "question": "nature_of_property",
+        "header": "Nature of Property",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Street Number & Name"
+      },
+      {
+        "question": "plot_id",
+        "header": "PLOT ID Number",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Street Number & Name"
+      },
+      {
+        "question": "survey_no",
+        "header":"Survey No. /GAT",
+        "begin_label":"Survey No. /GAT",
+        "end_label":"Street Number & Name"
+      },
+      {
+        "question": "street_name_no",
+        "header": "Street Number & Name",
+        "begin_label": "Landmark",
+        "end_label": "Village/Town Name"
+      },
+      {
+        "question": "sector",
+        "header": "Sector /Block Number",
+        "begin_label": "Landmark",
+        "end_label": "Village/Town Name"
+      },
+      {
+        "question": "locality",
+        "header": "Locality",
+        "begin_label": "Landmark",
+        "end_label": "Village/Town Name"
+      },
+      {
+        "question": "landmark",
+        "header": "Landmark",
+        "begin_label": "Landmark",
+        "end_label": "Village/Town Name"
+      },
+      {
+        "question": "village_or_town",
+        "header": "Village/Town Name",
+        "begin_label": "District",
+        "end_label": "State"
+      },
+      {
+        "question": "taluka",
+        "header": "Taluka",
+        "begin_label": "District",
+        "end_label": "State"
+      },
+      {
+        "question": "pin_code",
+        "header": "Pin code",
+        "begin_label": "District",
+        "end_label": "State"
+      },
+      {
+        "question": "district",
+        "header": "District",
+        "begin_label": "District",
+        "end_label": "State"
+      },
+      {
+        "question": "state",
+        "header": "State",
+        "begin_label": "Area of plot"
+      },
+      {
+        "question": "latitude",
+        "header": "Latitude",
+        "begin_label": "Area of plot"
+      },
+      {
+        "question": "longitude",
+        "header": "Longitude",
+        "begin_label": "Area of plot"
+      },
+      {
+        "question": "area_of_plot",
+        "header": "Area of plot",
+        "begin_label": "Area of plot"
+      }
+    ]
+  },
+  {
+    "name": "dwelling",
+    "type": "form",
+    "targets": [
+      {
+        "question": "evaluated_price",
+        "header": "Evaluated Price of Asset as on Security interest Creation date (in INR)",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Dwelling Unit ID Number"
+      },
+      {
+        "question": "nature_of_property",
+        "header": "Nature of Property",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Dwelling Unit ID Number"
+      },
+      {
+        "question": "plot_id",
+        "header": "PLOT ID Number",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Dwelling Unit ID Number"
+      },
+      {
+        "question": "survey_no",
+        "header": "Survey No. /GAT",
+        "begin_label": "Survey No. /GAT",
+        "end_label": "Dwelling Unit ID Number"
+      },
+      {
+        "question": "dwelling_id",
+        "header": "Dwelling Unit ID Number",
+        "begin_label": "Street Name / No.",
+        "end_label": "Sector/Block Number"
+      },
+      {
+        "question": "floor",
+        "header": "Floor No.",
+        "begin_label": "Street Name / No.",
+        "end_label": "Sector/Block Number"
+      },
+      {
+        "question": "building",
+        "header": "Building Name & Society",
+        "begin_label": "Street Name / No.",
+        "end_label": "Sector/Block Number"
+      },
+      {
+        "question": "street_name_no",
+        "header": "Street Name / No.",
+        "begin_label": "Street Name / No.",
+        "end_label": "Sector/Block Number"
+      },
+      {
+        "question": "sector",
+        "header": "Sector/Block Number",
+        "begin_label": "Village/Town Name",
+        "end_label": "Taluka"
+      },
+      {
+        "question": "locality",
+        "header": "Locality",
+        "begin_label": "Village/Town Name",
+        "end_label": "Taluka"
+      },
+      {
+        "question": "landmark",
+        "header": "Landmark",
+        "begin_label": "Village/Town Name",
+        "end_label": "Taluka"
+      },
+      {
+        "question": "village_or_town",
+        "header": "Village/Town Name",
+        "begin_label": "Village/Town Name",
+        "end_label": "Taluka"
+      },
+      {
+        "question": "taluka",
+        "header": "Taluka",
+        "begin_label": "State",
+        "end_label": "Latitude"
+      },
+      {
+        "question": "pin_code",
+        "header": "Pin Code",
+        "begin_label": "State",
+        "end_label": "Latitude"
+      },
+      {
+        "question": "district",
+        "header": "District",
+        "begin_label": "State",
+        "end_label": "Latitude"
+      },
+      {
+        "question": "state",
+        "header": "State",
+        "begin_label": "State",
+        "end_label": "Latitude"
+      },
+      {
+        "question": "latitude",
+        "header": "Latitude",
+        "begin_label": "feet, Sq. Meter)"
+      },
+      {
+        "question": "longitude",
+        "header": "Longitude",
+        "begin_label": "feet, Sq. Meter)"
+      },
+      {
+        "question": "area_of_dwelling_first_part",
+        "header": "Area of",
+        "begin_label": "feet, Sq. Meter)"
+      },
+      {
+        "question": "area_of_dwelling_second_part",
+        "header": "feet, Sq. Meter)",
+        "begin_label": "feet, Sq. Meter)"
+      }
+    ]
+  },
+  {
+    "name": "bounded_by",
+    "type": "form",
+    "targets": [
+      {
+        "question": "north",
+        "header": "By North",
+        "begin_label": "By West"
+      },
+      {
+        "question": "south",
+        "header": "By South",
+        "begin_label": "By West"
+      },
+      {
+        "question": "east",
+        "header": "By East",
+        "begin_label": "By West"
+      },
+      {
+        "question": "west",
+        "header": "By West",
+        "begin_label": "By West"
+      }
+    ]
+  }
+]

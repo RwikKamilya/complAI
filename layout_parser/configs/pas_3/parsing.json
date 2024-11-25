@@ -1,0 +1,63 @@
+[
+  {
+    "name": "particulars",
+    "type": "matrix",
+    "vertical_headers": [
+      {
+        "question": "on_application",
+        "header": "On application*"
+      },
+      {
+        "question": "on_allotment",
+        "header": "On allotment"
+      },
+      {
+        "question": "on_calls",
+        "header": "On calls*"
+      },
+      {
+        "question": "total_amount",
+        "header": "Total amount*"
+      }
+    ],
+    "horizontal_headers": [
+      {
+        "question": "nominal_amount_per_security",
+        "header": "Amount due and payable per security (in INR)"
+      },
+      {
+        "question": "nominal_total_amount_paid",
+        "header": "Total Amount paid (in INR)"
+      },
+      {
+        "question": "premium_amount_per_security",
+        "header": "Amount due and payable per security (in INR)",
+        "occurrence": 2
+      },
+      {
+        "question": "premium_total_amount_paid",
+        "header": "Total Amount paid (in INR)",
+        "occurrence": 2
+      },
+      {
+        "question": "discount_amount_per_security",
+        "header": "Amount due and payable per security(in INR)"
+      },
+      {
+        "question": "discount_total_amount_paid",
+        "header": "Total Amount paid (in INR)",
+        "occurrence": 3
+      },
+      {
+        "question": "total_amount_per_security",
+        "header": "Amount due and payable per security (in INR)",
+        "occurrence": 3
+      },
+      {
+        "question": "total_amount_paid",
+        "header": "Total Amount paid (in INR)",
+        "occurrence": 4
+      }
+    ]
+  }
+]
