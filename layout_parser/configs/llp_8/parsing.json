@@ -1,0 +1,264 @@
+[
+  {
+    "name": "bs",
+    "type": "financial",
+    "vertical_headers": [
+      {
+        "question": "contribution_received",
+        "header": "Contribution received"
+      },
+      {
+        "question": "reserves_and_surplus",
+        "header": "loss made during year)"
+      },
+      {
+        "question": "secured_loan",
+        "header": "Secured loans"
+      },
+      {
+        "question": "unsecured_loan",
+        "header": "Unsecured loans"
+      },
+      {
+        "question": "short_term_borrowing",
+        "header": "Short term borrowings"
+      },
+      {
+        "question": "trade_payables",
+        "header": "Creditors/Trade payables - Advance from customers"
+      },
+      {
+        "question": "provisions_for_taxation",
+        "header": "for taxation"
+      },
+      {
+        "question": "provisions_for_contingencies",
+        "header": "for contingencies"
+      },
+      {
+        "question": "provisions_for_insurance",
+        "header": "for insurance"
+      },
+      {
+        "question": "other_provisions",
+        "header": "other provisions(if any)"
+      },
+      {
+        "question": "liabilities_total",
+        "header": "Total"
+      },
+      {
+        "question": "gross_fixed_assets",
+        "header": "Gross Fixed assets (including intangible assets)"
+      },
+      {
+        "question": "depreciation_and_amortization",
+        "header": "Less: depreciation and amortization"
+      },
+      {
+        "question": "net_fixed_assets",
+        "header": "Net fixed assets"
+      },
+      {
+        "question": "investments",
+        "header": "Investments"
+      },
+      {
+        "question": "loans_and_advances",
+        "header": "Loans and advances"
+      },
+      {
+        "question": "inventories",
+        "header": "Inventories"
+      },
+      {
+        "question": "trade_receivables",
+        "header": "Debtors/trade receivables"
+      },
+      {
+        "question": "cash_and_cash_equivalents",
+        "header": "Cash and cash equivalents"
+      },
+      {
+        "question": "assets_total",
+        "header": "Total",
+        "occurrence": 2
+      }
+    ],
+    "horizontal_headers": [
+      {
+        "question": "current_reporting_period",
+        "header": "Figures as at the end of the current reporting period (in Rs.)"
+      },
+      {
+        "question": "previous_reporting_period",
+        "header": "Figures as at the end of the previous reporting period (in Rs.)"
+      }
+    ],
+    "dynamic_vertical_headers": [
+      {
+        "question": "other_liabilities_to_specify",
+        "previous_header": {
+          "header": "Other liabilities (to specify)"
+        },
+        "next_header": {
+          "header": "Provisions"
+        }
+      },
+      {
+        "question": "other_assets_to_specify",
+        "previous_header": {
+          "header": "Other assets (to specify)"
+        },
+        "next_header": {
+          "header": "Total",
+          "occurrence": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "pnl",
+    "type": "matrix",
+    "vertical_headers": [
+      {
+        "question": "period_start_date",
+        "header": "(DD/MM/YYYY)"
+      },
+      {
+        "question": "period_end_date",
+        "header": "(DD/MM/YYYY)",
+        "occurrence": 2
+      },
+      {
+        "question": "gross_turnover",
+        "header": "Gross turnover"
+      },
+      {
+        "question": "excise_duty_or_service_tax",
+        "header": "Less: Excise duty or service tax"
+      },
+      {
+        "question": "sale_of_goods_manufactured_domestic",
+        "header": "(a) Sale of goods manufactured"
+      },
+      {
+        "question": "sale_of_goods_traded_domestic",
+        "header": "(b) Sale of goods traded"
+      },
+      {
+        "question": "sale_or_supply_of_services_domestic",
+        "header": "(c) Sale or supply of services"
+      },
+      {
+        "question": "sale_of_goods_manufactured_export",
+        "header": "(a) Sale of goods manufactured",
+        "occurrence": 2
+      },
+      {
+        "question": "sale_of_goods_traded_export",
+        "header": "(b) Sale of goods traded",
+        "occurrence": 2
+      },
+      {
+        "question": "sale_or_supply_of_services_export",
+        "header": "(c) Sale or supply of services",
+        "occurrence": 2
+      },
+      {
+        "question": "other_income",
+        "header": "Other income"
+      },
+      {
+        "question": "increase_decrease_in_stocks",
+        "header": "Increase/ (decrease) in stocks [including for raw materials, work in progress and finished goods]"
+      },
+      {
+        "question": "total_income",
+        "header": "Total Income"
+      },
+      {
+        "question": "raw_material_consumed",
+        "header": "Raw material consumed"
+      },
+      {
+        "question": "purchases_made_for_reSale",
+        "header": "Purchases made for re-sale"
+      },
+      {
+        "question": "consumption_of_stores_and_spareParts",
+        "header": "Consumption of stores and spare parts"
+      },
+      {
+        "question": "power_and_fuel",
+        "header": "Power and fuel"
+      },
+      {
+        "question": "personnel_expenses",
+        "header": "Personnel Expenses"
+      },
+      {
+        "question": "administrative_expenses",
+        "header": "Administrative expenses"
+      },
+      {
+        "question": "payment_to_auditors",
+        "header": "Payment to auditors"
+      },
+      {
+        "question": "selling_expenses",
+        "header": "Selling expenses"
+      },
+      {
+        "question": "insurance_expenses",
+        "header": "Insurance expenses"
+      },
+      {
+        "question": "depreciation_and_amortization",
+        "header": "Depreciation and amortization"
+      },
+      {
+        "question": "interest",
+        "header": "Interest"
+      },
+      {
+        "question": "other_expenses",
+        "header": "Other expenses"
+      },
+      {
+        "question": "total_expenditure",
+        "header": "Total expenditure"
+      },
+      {
+        "question": "profit_or_loss_before_taxes",
+        "header": "Net Profit or Net Loss (before taxes)"
+      },
+      {
+        "question": "provision_for_tax",
+        "header": "Provision for Tax"
+      },
+      {
+        "question": "profit_after_tax",
+        "header": "Profit after Tax"
+      },
+      {
+        "question": "profit_transferred_to_partners_account",
+        "header": "Profit transferred to Partners’ account"
+      },
+      {
+        "question": "profit_transfer_to_reserve_and_surplus",
+        "header": "Profit transferred to Reserves and surplus"
+      }
+    ],
+    "horizontal_headers": [
+      {
+        "question": "current_reporting_period",
+        "header": "Figures for the period (Current reporting period)"
+      },
+      {
+        "question": "previous_reporting_period",
+        "header": "Figures for the period (Previous reporting period)"
+      }
+    ]
+  }
+]
